@@ -8,18 +8,3 @@ Basic Flask application - The user enters details of their loan and it calculate
 
 *Learned to write unit and funcitonal tests to provide an automated way to test the loan calculator application*
 
-# Installation Instructions
-1. #
-2. #
-3. #
-4. #
-5. #
-
-
-## inline code
-
-Inline `code` is denoted with a single backtick.
-
-```
-A block of code is denoted with three backtics.
-```
