@@ -1,5 +1,4 @@
-# Pytest-Kauf
-# Pytest - Christina Kaufman
+# Pytest 3300 - Christina Kaufman
 Using pytest and pytest-cov, write tests to check each function
 
 Basic Flask application - The user enters details of their loan and it calculates the monthly payment and an amortization table.
