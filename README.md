@@ -6,12 +6,14 @@ Basic Flask application - The user enters details of their loan and it calculate
 # What Did I Learn?
 *This application is used to teach CI/CD including automated testing and GitHub Actions workflow files (.yaml)*
 
+*Learned to write unit and funcitonal tests to provide an automated way to test the loan calculator application*
+
 # Installation Instructions
-1. Ordered
-2. list
-3. of 
-4. installation 
-5. instructions
+1. #
+2. #
+3. #
+4. #
+5. #
 
 
 ## inline code
