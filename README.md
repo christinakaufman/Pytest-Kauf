@@ -2,10 +2,10 @@
 # Pytest - Christina Kaufman
 Using pytest and pytest-cov, write tests to check each function
 
+Basic Flask application - The user enters details of their loan and it calculates the monthly payment and an amortization table.
 
 # What Did I Learn?
-*What did I learn from completing this project.*
-
+*This application is used to teach CI/CD including automated testing and GitHub Actions workflow files (.yaml)*
 
 # Installation Instructions
 1. Ordered
